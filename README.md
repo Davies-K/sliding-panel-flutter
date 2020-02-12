@@ -6,3 +6,5 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+![gif](https://github.com/Davies-K/sliding-panel-flutter/blob/master/screenshots/screen_rec.gif)
+
